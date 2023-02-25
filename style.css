@@ -1,0 +1,14 @@
+html, body {
+    height:100%;
+    margin: 0;
+    background-color: #E0DED3;
+  }
+  
+  body{
+    display: grid;
+    justify-items: center;
+  }
+  
+  #bodymovin {
+    width: 100%;
+  }
